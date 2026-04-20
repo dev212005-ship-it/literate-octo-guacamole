@@ -1,0 +1,1 @@
+# Employee Management System\n\nThis is a project for managing employee records, attendance, leaves, and payroll processing.\n
